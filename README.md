@@ -34,5 +34,6 @@ This project analyzes customer churn data to identify key factors influencing cu
 ---
 
 ## 📸 Visual Insights
-![Churn Analysis](visuals/churn_insights3.png)
+
+![Customer Churn Analysis](visual/churn_insights.png)
 "# Customer-Churn-Analysis" 
